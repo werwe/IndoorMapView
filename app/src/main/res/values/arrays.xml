@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="maps">
+        <item>@drawable/land1</item>
+        <item>@drawable/land2</item>
+    </array>
+
+</resources>
